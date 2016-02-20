@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="fin">
+<e><lg><l pos="Adv">eksyksissä</l></lg><mg><xg><x>olla eksyksissä</x><xt>йыромыса улыны, йыромемын луыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">eksyksiin</l></lg><mg><xg><x>joutua eksyksiin</x><xt>йыромыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">epäkunnossa</l></lg><mg><xg><x>hissi on epäkunnossa</x><xt>лифт сӧриськемын</xt><xt>лифт тӥяськемын</xt></xg><xg><x>vatsani on epäkunnossa</x><xt>кӧты висе</xt><xt>кӧты чутыръя</xt></xg></mg></e>
+<e><lg><l pos="Adv">epäkuntoon</l></lg><mg><xg><x>saattaa epäkuntoon</x><xt>изъянтыны</xt><xt>ярантэм карыны</xt></xg><xg><x>mennä epäkuntoon</x><xt>сӧриськыны</xt><xt>тӥяськыны</xt></xg><xg><x>televisioni meni epäkuntoon</x><xt>телевизоре сӧриськиз</xt></xg></mg></e>
+
+<e><lg><l pos="Adv">esillä</l></lg><mg><defNative>näkyvissä</defNative><tg xml:lang="udm"><t>(син) азьын</t><t>(син) шорын</t></tg></mg><mg><defNative>käsillä</defNative><tg xml:lang="udm"><t>ки улын</t></tg><xg><x>olla esillä</x><xt>син азьын луыны</xt><xt>син азьын вань</xt><!--<i>taipum. </i>(<i>pret. вал</i>) --></xg> <xg><x>pitää työkalut esillä</x><xt>ужан тӥрлыкез син азьын возьыны</xt></xg><xg><x>kysymys oli esillä</x><xt>юан ӝутэмын вал</xt><xt>юан эскеремын вал</xt></xg></mg></e>
+
+
+<e><lg><l pos="Adv">esille</l></lg><mg><defNative>esiin</defNative><tg xml:lang="udm"><t>азе, азьпала, азьлан|ь, -е</t></tg></mg><mg><defNative>julkisuuteen</defNative><tg xml:lang="udm"><t>шарае, кыре</t></tg><xg><x>ottaa jk esille</x><xt>мае ке азе поттыны</xt><xt>мае ке азьпала поттыны</xt></xg><xg><x>tulla esille piilosta</x><xt>ватскем интыысь (кыре) потыны</xt></xg><xg><x>tuoda esille</x><xt>шараяны</xt></xg></mg></e>
+<e><lg><l pos="Adv">etäällä</l></lg><mg><tg xml:lang="udm"><t>кыдёкын, сьӧрлон</t></tg><xg><x>asua etäällä kauppakeskuksista</x><xt>вузаськон цеʼнтръёслэсь кыдёкын улыны</xt></xg><xg><x>asua etäällä</x><xt>сьӧрлон улыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">etäältä</l></lg><mg><tg xml:lang="udm"><t>кыдёкысь, кыдёкысен, сьӧрлось, сьӧрлосен</t></tg><xg><x>tunnistin hänet jo etäältä</x><xt>сое кыдёкысен ик ини тодмай</xt></xg></mg></e>
+<e><lg><l pos="Adv">etäälle</l></lg><mg><tg xml:lang="udm"><t>кыдёке, сьӧрло</t></tg><xg><x>joutua etäälle aiheestaan</x><xt>теʼмаедлэсь кыдёке кошкыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">etäämmmällä</l><i>ӵшт. </i><udm>> </udm><b>etää</b><udm>|</udm><b>llä </b></lg><mg><tg xml:lang="udm"><t>кыдёкынгес; озёлон(гес)</t></tg></mg></e>
+<e><lg><l pos="Adv">etäämmmältä</l></lg><mg><tg xml:lang="udm"><t>кыдёкысьгес; озёлось(гес)</t></tg></mg></e>
+<e><lg><l pos="Adv">etäämmmälle</l></lg><mg><tg xml:lang="udm"><t>кыдёкегес; озёло(гес)</t></tg><xg><x>siirtyä etäämmälle</x><xt>озёло кариськыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">etäämpänä</l><variants><l_syn>etäämmällä</l_syn></variants></lg><mg><tg xml:lang="udm"><t>кыдёкынгес; озёлон(гес)</t></tg></mg></e>
+<e><lg><l pos="Adv">etäämpää</l><variants><l_syn>etäämmältä</l_syn></variants></lg><mg><tg xml:lang="udm"><t>кыдёкысьгес; озёлось(гес)</t></tg></mg></e>
+<e><lg><l pos="Adv">etäämmäksi</l><variants><l_syn>etäämmälle</l_syn></variants></lg><mg><tg xml:lang="udm"><t>кыдёкегес; озёло(гес)</t></tg></mg></e>
+<e><lg><l pos="Adv">etäämmäs</l><variants><l_syn>etäämmälle</l_syn></variants></lg><mg><tg xml:lang="udm"><t>кыдёкегес; озёло(гес)</t></tg></mg></e>
+<e><lg><l pos="Adv">hallussa</l></lg><mg><num>1.</num><defNative>omistuksessa</defNative><xg><x>jnk hallussa</x><xt>кин ке киын</xt><xt>кин ке ки улын</xt></xg><xg><x>vieraiden hallussa oleva huone</x><xt>куноос киын луись коʼмнатаʼ</xt><xt>кузёяськонын луись коʼмнатаʼ</xt></xg><xg><x>hänellä on sana hallussaan</x><i>выжт.</i><xt>кыллы бырем</xt><xt>= солэн кылыз ас кияз</xt></xg></mg><mg><num>2.</num><defNative>hoidossa, valvonnassa</defNative><xg><x>paperit ovat pankin hallussa</x><xt>(уж*)кагазъёс банк киын, (уж)кагазъёсын банк кузёяське</xt></xg><xg><x>saattaa omaisuus ostajan haltuun</x><xt>ваньбурез басьтӥсь кие вуттыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">hallusta</l></lg><mg></mg></e>
+<e><lg><l pos="Adv">haltuun</l></lg><mg><num>1.</num><defNative>omistuksessa</defNative><xg><x>anastaa jtak haltuunsa</x><xt>кинэ ке киултыны</xt><xt>мае ке киултыны</xt><xt>кинэ ке аслыд карыны</xt><xt>мае ке аслыд карыны</xt></xg></mg><mg><num>2.</num><defNative>hoitoon, valvontaan</defNative><xg><x>ottaa jk haltuun</x><xt>кинэ ке ас кияд басьтыны</xt><xt>мае ке ас кияд басьтыны</xt></xg><xg><x>ottaa jk hoivaan</x><xt>кинэ ке утьыны-вордыны  басьтыны</xt><xt>кинэ ке утялтыны басьтыны</xt></xg><xg><x>jättää lapsi isoäitinsä haltuun</x><xt>нылпиез песянаезлы утялтыны кельтыны</xt><xt>нылпиез песянаезлы утьыны-вордыны кельтыны</xt></xg></mg></e>
+
+</r>

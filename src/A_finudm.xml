@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="fin">
+<e><lg><l pos="A">hamassa</l></lg><mg><tg xml:lang="udm"><t><i>вылӥ ст.</i></t></tg><xg><x>hamassa nuoruudessani</x><xt>(саʼмой) егит дыръям (ик)</xt><xt>(саʼмой) пинал дыръям (ик)</xt></xg><xg><x>hamassa muinaisuudessa</x><xt>туж кемалась, вашкала дыръёсы (ик)</xt></xg></mg></e>
+<e><lg><l pos="A">hamasta</l></lg><mg><tg xml:lang="udm"><t>(<i>элат., абл.</i>) (пыʼрак) =ысен, (пыʼрак) =сен; </t></tg><xg><x>hamasta lapsuudestani</x><xt>(пыʼрак) пичи дырысеным (ик)</xt><xt>(пыʼрак) пинал дырысеным (ик)</xt></xg></mg></e>
+<e><lg><l pos="A">hamaan</l></lg><mg><tg xml:lang="udm"><t>(<i>илл.</i>) =озь (ик), =ёзь (ик);</t></tg><xg><x>hamaan kuolemaan asti</x><xt>кулытозь (ик)</xt></xg><xg><x>alusta hamaan loppuun (asti)</x><xt>кутсконысен(ыз) пумозяз (ик)</xt></xg></mg></e>
+<e><lg><l pos="A">intransitiivi</l><variants><l_syn>intransitiivinen</l_syn></variants></lg><mg><field>кыл.</field><tg xml:lang="udm"><t>выжисьтэм</t><t>неперехоʼдной</t></tg><xg><x>intransitiiviverbi</x><xt>выжисьтэм каронкыл*, неперехоʼдной глагол</xt></xg></mg></e>
+<e><lg><l pos="A">intransitiivinen</l><variants><l_syn>intransitiivi</l_syn></variants><sup>38 </sup></lg><mg><field>кыл.</field><tg xml:lang="udm"><t>выжисьтэм</t><t>неперехоʼдной</t></tg><xg><x>intransitiivinen verbi</x><xt>выжисьтэм каронкыл</xt><xt>неперехоʼдной глагол</xt></xg></mg></e>
+
+
+</r>

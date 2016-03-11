@@ -23,4 +23,80 @@
 <e><lg><l pos="Adv">hallusta</l></lg><mg></mg></e>
 <e><lg><l pos="Adv">haltuun</l></lg><mg><num>1.</num><defNative>omistuksessa</defNative><xg><x>anastaa jtak haltuunsa</x><xt>кинэ ке киултыны</xt><xt>мае ке киултыны</xt><xt>кинэ ке аслыд карыны</xt><xt>мае ке аслыд карыны</xt></xg></mg><mg><num>2.</num><defNative>hoitoon, valvontaan</defNative><xg><x>ottaa jk haltuun</x><xt>кинэ ке ас кияд басьтыны</xt><xt>мае ке ас кияд басьтыны</xt></xg><xg><x>ottaa jk hoivaan</x><xt>кинэ ке утьыны-вордыны  басьтыны</xt><xt>кинэ ке утялтыны басьтыны</xt></xg><xg><x>jättää lapsi isoäitinsä haltuun</x><xt>нылпиез песянаезлы утялтыны кельтыны</xt><xt>нылпиез песянаезлы утьыны-вордыны кельтыны</xt></xg></mg></e>
 
+<e><lg><l pos="Adv">jäljillä</l><drv>&gt; jälki</drv></lg><mg><xg><x>poliisi on murhaajan jäljillä</x><xt>полиʼция адями вийисьлэн пытьы вылаз потӥз ни</xt></xg></mg></e>
+<e><lg><l pos="Adv">jäljille</l><drv>&gt; jälki</drv></lg><mg><xg><x>päästä jnk jäljille</x><xt>кинлэн ке пытьы вылаз потыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">jäljiltä</l><drv>&gt; jälki</drv></lg><mg></mg></e>
+
+<e><lg><l pos="Adv">jäljellä</l></lg><mg><xg><x>olla jäljellä</x><xt>кыльыны</xt><xt>вань на</xt></xg><xg><x>jäljellä on vielä paljon töitä</x><xt>трос уж кылемын на</xt></xg><xg><x>hänellä ei ole rahaa jäljellä</x><xt>солэн коньдонэз кыльымтэ ни</xt><xt>солэн коньдонэз ӧвӧл ни</xt></xg></mg></e>
+<e><lg><l pos="Adv">jäljelle</l></lg><mg><xg><x>jäädä jäljelle</x><xt>кыльыны</xt></xg><xg><x>eväistä ei jäänyt mitään jäljelle</x><xt>сиён-юон ноʼкӧняʼ но ӧз ни кыль</xt><xt>продуʼкта ноʼкӧняʼ но ӧз ни кыль</xt></xg></mg></e>
+
+<e><lg><l pos="Adv">juttusilla</l></lg><mg><xg><x>olla juttusilla jnk kanssa</x><xt>кинэн ке вераськыны</xt><xt>кинэн ке кенешыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">juttusille</l></lg><mg><xg><x>joutua juttusille jnk kanssa</x><xt>кинэн ке вераськыны кутскыны</xt><xt>кинэн ке вераськон мытыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">juovuksissa</l></lg><mg><xg><x>olla juovuksissa</x><xt>кудӟемын луыны</xt></xg><xg><x>hän on juovuksissa</x><xt>со кудӟемын</xt></xg></mg></e>
+<e><lg><l pos="Adv">juovuksiin</l></lg><mg><xg><x>tulla juovuksiin</x><xt>кудӟыны</xt></xg><xg><x>juoda itsensä juovuksiin</x><xt>кудӟытозь юыны</xt><xt>кудӟымон юыны</xt></xg></mg></e>
+
+
+<e><lg><l pos="Adv">haltioissaan</l></lg><mg><xg><x>olla haltioissaan</x><xt>туж потыны</xt><xt>зол потыны</xt><xt>шуʼмпотыны</xt><xt>туж куаныны</xt><xt>зол куаныны</xt><xt>шуʼмкуаныны</xt><xt>абдраны</xt><xt>паймыны</xt> (<i>ксь чеберлы</i>)</xg><xg><x>olimme aivan haltioissamme voitosta</x><xt>вормеммылы туж зол шуʼмпотӥм</xt></xg></mg></e>
+<e><lg><l pos="Adv">haltioihinsa</l></lg><mg><xg><x>joutua haltioihinsa</x><xt>туж потыны</xt><xt>зол потыны</xt><xt>шуʼмпотыны</xt><xt>туж куаныны кутскыны</xt></xg><xg><x>saada jk haltioihinsa</x><xt>кинэ ке туж поттыны</xt><xt>кинэ ке зол поттыны</xt><xt>кинэ ке шуʼмпоттыны</xt><xt>кинэ ке туж абдратыны</xt> (<i>ксь чеберен</i>)</xg></mg></e>
+
+
+
+<e><lg><l pos="Adv">harallaan</l></lg><mg><xg><x>jalat harallaan</x><xt>пыдъёстэ вайяса</xt><xt>пыдъёстэ шеръяса</xt></xg><xg><x>silmät harallaan</x><xt>синъёстэ быльккетыса</xt><xt>синъёстэ паськыт усьтыса</xt></xg><xg><x>tukka haralla(an)</x><xt>йырси лусьт(ы)рес луыса</xt><xt>йырси пешт(ы)рес луыса</xt></xg></mg></e>
+<e><lg><l pos="Adv">haralleen</l></lg><mg><xg><x>levittää haralle(en)</x><xt>вайяны, шеръяны</xt></xg><xg><x>panna haralle(en)</x><xt>вайяны, шеръяны</xt></xg><xg><x>mennä haralle(en)</x><xt>вайяськыны, шеръяськыны</xt></xg><xg><x>panna jalat haralleen</x><xt>пыдъёсты (шеʼр-шер) вайяны</xt></xg><xg><x>levittää jalat haralleen</x><xt>пыдъёсты (шеʼр-шер) вайяны</xt></xg></mg></e>
+
+
+<e><lg><l pos="Adv">harhassa</l></lg><mg><xg><x>olla harhassa</x><xt>1) йыромыны, йыромемын луыны, сюресэз ыштыны</xt><xt>2)<i>выжт.</i> янгышаны, пӧяськыны</xt></xg><xg><x>tässä asiassa olet harhassa</x><xt>татын тон янгышаськод</xt><xt>та ужпумын тон янгышаськод</xt></xg></mg></e>
+<e><lg><l pos="Adv">harhaan</l></lg><mg><xg><x>osua harhaan</x><xt>[ӧвӧл] йӧттыны, йӧттытэк кельтыны</xt> (<i>ыбылӥськыку</i>)</xg><xg><x>kulkea harhaan</x><xt>йыромыны, сюресэз ыштыны</xt></xg><xg><x>joutua harhaan</x><xt>шонер сюрес вылысь кожыны</xt></xg><xg><x>johtaa harhaan</x><xt><i>выжт.</i> йыромытыны, янгыше вуттыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">harhateillä</l></lg><mg><i>ӵем. выжт.</i><xg><x>olla harhateillä</x><xt>ышыны, ышемын луыны, олоʼкыʼтчыʼ луыны, ышыса улыны</xt></xg><xg><x>hän oli ollut muutaman päivän harhateillä</x><xt>кӧня ке нунал ӵоже со кытчы ке ышыса улӥз</xt><xt>кӧня ке нунал ӵоже со кытын ке ышыса улӥз</xt></xg></mg></e>
+<e><lg><l pos="Adv">harhateille</l></lg><mg><i>ӵем. выжт.</i><xg><x>joutua harhateille</x><xt>шонер сюрес вылысь кожыны</xt></xg><xg><x>tutkimus on joutunut harhateille</x><xt>исслеʼдование моге вуиз, эскерон палэнэ кошкиз</xt></xg></mg></e>
+<e><lg><l pos="Adv">harhateiltä</l></lg><mg></mg></e>
+
+<e><lg><l pos="Adv">heitteillä</l></lg><mg><xg><x>heitteillä olevat tavarat</x><xt>пазям  котыр</xt><xt>сэрпаллям котыр</xt><xt>аналтэм котыр</xt></xg></mg></e>
+<e><lg><l pos="Adv">heitteille</l></lg><mg><xg><x>jättää heitteille</x><xt>аналтыны, куштыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">heitteiltä</l></lg><mg></mg></e>
+
+<e><lg><l pos="Adv">hereillä</l></lg><mg><xg><x>olla hereillä</x><xt>сазь улыны</xt><xt>сазь луыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">hereille</l></lg><mg><xg><x>saada hereille</x><xt>сайкатыны</xt></xg></mg></e>
+
+<e><lg><l pos="Adv">hoteissa</l></lg><mg><i>вер.</i><xg><x>asia on hänen hoteissaan</x><xt>та ужен со выре</xt><xt>со ужен со выре</xt></xg><xg><x>olla omissa hoteissaan</x><xt>ас йырыныд улыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">hoteisiinsa</l></lg><mg><i>вер.</i><xg><x>ottaa hoteisiinsa</x><xt>ас кияд кутыны</xt><xt>ас кияд басьтыны</xt><xt>ас вылад басьтыны</xt><xt>ас вылад ныпъяны</xt></xg><xg><x>jättää jnk hoteisiin</x><xt>кин ке кие кельтыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">hoteista</l></lg><mg><i>вер.</i></mg></e>
+
+<e><lg><l pos="Adv">hunningolla</l></lg><mg><xg><x>olla hunningolla</x><xt>аналмыса улыны</xt><xt>куштӥськыса улыны</xt><xt>(<i>ihminen</i>) аналскыса улыны</xt><xt>азгынмыса улыны</xt></xg><xg><x>hunningolla olevat asiat</x><xt>аналмем ужъёс</xt></xg></mg></e>
+<e><lg><l pos="Adv">hunningolle</l></lg><mg><xg><x>joutua hunningolle</x><xt>аналмыны, куштӥськыны</xt><xt>(<i>ihminen</i>) аналскыны, азгынмыны, лэзькыны</xt></xg><xg><x>jättää hunningolle</x><xt>аналтыны, аналтыса кельтыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">huostassa</l></lg><mg><xg><x>rahat ovat hänen huostassaan</x><xt>коньдон солэн кияз (улэ)</xt></xg></mg></e>
+<e><lg><l pos="Adv">huostaan</l></lg><mg><xg><x>ottaa huostaansa</x><xt>ас кияд басьтыны</xt><xt>(<i>hoivaan</i>) утьыны-вордыны басьтыны</xt><xt>утялтыны басьтыны</xt></xg><xg><x>ottaa (lapsi) huostaan</x><field>юр.</field><xt>нылпиез утьыны-вордыны басьтыны</xt></xg><xg><x>jättää jnk huostaan</x><xt>кин ке кие кельтыны</xt><xt>(<i>hoivaan</i>) утьыны-вордыны кельтыны</xt><xt>утялтыны кельтыны</xt></xg><xg><x>jätä asia huostaani</x><xt>>кельты со ужез мыным</xt><xt>кельты со ужез мон кие</xt></xg><xg><x>jättää lapsi isoäitinsä huostaan</x><xt>нылпиез песянаезлы утялтыны кельтыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">huostasta</l></lg><mg></mg></e>
+<e><lg><l pos="Adv">hyvilleen</l></lg><mg><xg><x>tulla hyvilleen jstak</x><xt>марлы ке шуʼм/потыны</xt></xg>
+<e><lg><l pos="Adv">hyvillään</l></lg><mg><xg><x>olla hyvillään jstak</x><xt>марлы ке шуʼм/потыны</xt><xt>марлы ке шуʼмпотысаʼ улыны</xt><xt>марлы ке [мылкыд] тыр(м)ыны</xt></xg></mg></e>
+
+<e><lg><l pos="Adv">hämillään</l></lg><mg><xg><x>olla hämillään</x><xt>ӟудыса улыны, куалектыны, кеʼр/потыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">hämilleen</l></lg><mg><xg><x>saattaa jk hämilleen</x><xt>кинэ ке ӟудытыны</xt><xt>кинэ ке куалектытыны</xt></xg><xg><x>joutua hämilleen</x><xt>ӟудыны, ӟудон калэ вуыны, куалектыны</xt></xg><xg><x>mennä hämilleen</x><xt>ӟудыны, ӟудон калэ вуыны, куалектыны</xt></xg></mg></e>
+
+<e><lg><l pos="Adv">höllässä</l><variants><l_syn>höllällä</l_syn></variants></lg><mg><xg><x>mutteri on höllässä</x><xt>гайка лябомемын</xt></xg></mg></e>
+<e><lg><l pos="Adv">höllällä</l><variants><l_syn>höllässä</l_syn></variants></lg><mg><xg><x>mutteri on höllällä</x><xt>гайка лябомемын</xt></xg></mg></e>
+<e><lg><l pos="Adv">höllälle</l><variants><l_syn>höllään</l_syn></variants></lg><mg><xg><x>sitoa höllälle</x><xt>ляб керттыны</xt><xt>шырккес керттыны</xt></xg><xg><x>päästää höllälle</x><xt>лябомытыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">höllään</l><variants><l_syn>höllälle</l_syn></variants></lg><mg><xg><x>sitoa höllään</x><xt>ляб керттыны</xt><xt>шырккес керттыны</xt></xg></mg></e>
+
+<e><lg><l pos="Adv">höröllään</l></lg><mg><xg><x>kuunnella korvat höröllä(än)</x><xt>пельёстэ сак карыса кылзыны</xt><xt>пельёстэ чорк карыса кылзыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">hörölleen</l></lg><mg></mg></e>
+<e><lg><l pos="Adv">hörössä</l></lg><mg></mg></e>
+<e><lg><l pos="Adv">höröön</l></lg><mg></mg></e>
+
+<e><lg><l pos="Adv">ilkosillaan</l></lg><mg><defNative>(шыр) гольык</defNative><xg><x>olla ilkosillaan</x><xt>(шыр) гольык луыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">ilkosilleen</l></lg><mg><xg><x>riisuuduin ilkosilleni</x><xt>гольык кылиськи</xt></xg></mg></e>
+<e><lg><l pos="Adv">irrallaan</l></lg><mg><tg xml:lang="udm"><t>эркын, лэзьыса; нимаʼз(-нимаз)</t></tg><xg><x>irrallaan juokseva koira</x><xt>эркын ветлӥсь пуны</xt></xg><xg><x>koira on irrallaan</x><xt>пуны думымтэ</xt></xg><xg><x>pitää hiuksia irrallaan</x><xt>йырсиез лэзьыса нуллыны</xt><xt>йырсиез лэзьыса возьыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">irralleen</l></lg><mg><xg><x>päästä irralleen</x><xt>мозмытскыны, лэзькыны</xt></xg><xg><x>päästää irralleen</x><xt>мозмытыны, (эрике) лэзьыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">istuallaan</l></lg><mg><tg xml:lang="udm"><t>пукыса</t></tg><xg><x>teen töitä istuallani</x><xt>пукыса ужасько</xt></xg></mg></e>
+<e><lg><l pos="Adv">istualtaan</l></lg><mg><tg xml:lang="udm"><t>пукыса</t></tg><xg><x>vastata istualtaan</x><xt>интыысеныд (юанлы) вераны</xt><xt>интыяд пукыса (юанлы) вераны</xt></xg>
+<e><lg><l pos="Adv">istualleen</l></lg><mg><tg xml:lang="udm"><t>пукыса</t></tg><xg><x>nukkua istualleen</x><xt>пуконъяд умме усьыны</xt></xg><xg><x>nousta istualleen</x><xt>(кыллемысь султыса) пуксьыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">jalkeilla</l></lg><mg><tg xml:lang="udm"><t>пыд йылын</t></tg><xg><x>olla jalkeilla</x><xt>пыд йылын луыны</xt><xt>пыд йылын сылыны</xt></xg></mg><mg><defNative>hereillä</defNative><tg xml:lang="udm"><t>сазь</t></tg><xg><x>olla jalkeilla</x><xt>сазь  луыны</xt><xt>сайкамын луыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">jalkeilla</l></lg><mg><tg xml:lang="udm"><t>пыд йылэ</t></tg><xg><x>päästä jalkeille</x><xt>(пыд йылэ) султыны</xt></xg></mg><mg><defNative>hereille</defNative><xg><x>päästä jalkeille</x><xt>иземысь султыны</xt></xg><xg><x>saada jalkeille</x><xt>пыд йылэ султытыны</xt><xt>пыд йылэ ӝутыны</xt><xt>(<i>hereille</i>) валесысь ӝутыны, сайкатыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">jumissa</l></lg><mg><xg><x>liikenne on jumissa</x><xt>траʼнспорт мынон-ветлон дугдӥз</xt><xt>траʼнспорт мынон-ветлон могӟемын</xt></xg><xg><x>kone on jumissa</x><xt>станок могӟемын</xt><xt>станок ужамысь дугдӥз</xt></xg><xg><x>neuvottelut ovat jumissa</x><xt>ваче кенешонъёс могӟизы</xt><xt>ваче кенешонъёс моге вуэмын</xt></xg></mg></e>
+<e><lg><l pos="Adv">jumiin</l></lg><mg><xg><x>mennä jumiin</x><xt>могӟыны, дугдыны, ӝеганы</xt></xg><xg><x>asiat menivät jumiin</x><xt>ужъёс могӟизы</xt></xg><xg><x>tietokone meni jumiin</x><xt>компьютер [-тэ-] могӟиз</xt><xt>компьютер ужамысь дугдӥз</xt></xg></mg></e>
+
+
+
+
+
 </r>

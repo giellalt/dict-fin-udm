@@ -2,5 +2,6 @@
 <r xml:lang="fin">
 <e><lg><l pos="N">aapinen</l><variants><l_syn>aapiskirja</l_syn></variants><sup>38</sup></lg><mg><tg xml:lang="udm"><t>букварь</t><t>аʼзбука</t></tg></mg></e>
 <e><lg><l pos="N">aapiskirja</l><variants><l_syn>aapinen</l_syn></variants><sup>9</sup></lg><mg><tg xml:lang="udm"><t>букварь</t><t>аʼзбука</t></tg></mg></e>
+<e><lg><l pos="N">jama</l></lg><mg><i>вер.</i><xg><x>asiat ovat hyvässä jamassa</x><xt>ужъёс умой мыно</xt><xt>ужъёс радъяськыса кошко</xt></xg><xg><x>asiat ovat huonossa jamassa</x><xt>ужъёс уг пӧрмо</xt></xg></mg><mg><i>вер.</i><xg><x>asiat ovat menneet siihen jamaan, että ... </x><xt>ужъёс со пуме вуэмын (ни), ...</xt></xg></mg></e>
 
 </r>

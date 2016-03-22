@@ -67,7 +67,7 @@
 <e><lg><l pos="Adv">huostassa</l></lg><mg><xg><x>rahat ovat hänen huostassaan</x><xt>коньдон солэн кияз (улэ)</xt></xg></mg></e>
 <e><lg><l pos="Adv">huostaan</l></lg><mg><xg><x>ottaa huostaansa</x><xt>ас кияд басьтыны</xt><xt>(<i>hoivaan</i>) утьыны-вордыны басьтыны</xt><xt>утялтыны басьтыны</xt></xg><xg><x>ottaa (lapsi) huostaan</x><field>юр.</field><xt>нылпиез утьыны-вордыны басьтыны</xt></xg><xg><x>jättää jnk huostaan</x><xt>кин ке кие кельтыны</xt><xt>(<i>hoivaan</i>) утьыны-вордыны кельтыны</xt><xt>утялтыны кельтыны</xt></xg><xg><x>jätä asia huostaani</x><xt>>кельты со ужез мыным</xt><xt>кельты со ужез мон кие</xt></xg><xg><x>jättää lapsi isoäitinsä huostaan</x><xt>нылпиез песянаезлы утялтыны кельтыны</xt></xg></mg></e>
 <e><lg><l pos="Adv">huostasta</l></lg><mg></mg></e>
-<e><lg><l pos="Adv">hyvilleen</l></lg><mg><xg><x>tulla hyvilleen jstak</x><xt>марлы ке шуʼм/потыны</xt></xg>
+<e><lg><l pos="Adv">hyvilleen</l></lg><mg><xg><x>tulla hyvilleen jstak</x><xt>марлы ке шуʼм/потыны</xt></xg></mg></e>
 <e><lg><l pos="Adv">hyvillään</l></lg><mg><xg><x>olla hyvillään jstak</x><xt>марлы ке шуʼм/потыны</xt><xt>марлы ке шуʼмпотысаʼ улыны</xt><xt>марлы ке [мылкыд] тыр(м)ыны</xt></xg></mg></e>
 
 <e><lg><l pos="Adv">hämillään</l></lg><mg><xg><x>olla hämillään</x><xt>ӟудыса улыны, куалектыны, кеʼр/потыны</xt></xg></mg></e>
@@ -88,7 +88,7 @@
 <e><lg><l pos="Adv">irrallaan</l></lg><mg><tg xml:lang="udm"><t>эркын, лэзьыса; нимаʼз(-нимаз)</t></tg><xg><x>irrallaan juokseva koira</x><xt>эркын ветлӥсь пуны</xt></xg><xg><x>koira on irrallaan</x><xt>пуны думымтэ</xt></xg><xg><x>pitää hiuksia irrallaan</x><xt>йырсиез лэзьыса нуллыны</xt><xt>йырсиез лэзьыса возьыны</xt></xg></mg></e>
 <e><lg><l pos="Adv">irralleen</l></lg><mg><xg><x>päästä irralleen</x><xt>мозмытскыны, лэзькыны</xt></xg><xg><x>päästää irralleen</x><xt>мозмытыны, (эрике) лэзьыны</xt></xg></mg></e>
 <e><lg><l pos="Adv">istuallaan</l></lg><mg><tg xml:lang="udm"><t>пукыса</t></tg><xg><x>teen töitä istuallani</x><xt>пукыса ужасько</xt></xg></mg></e>
-<e><lg><l pos="Adv">istualtaan</l></lg><mg><tg xml:lang="udm"><t>пукыса</t></tg><xg><x>vastata istualtaan</x><xt>интыысеныд (юанлы) вераны</xt><xt>интыяд пукыса (юанлы) вераны</xt></xg>
+<e><lg><l pos="Adv">istualtaan</l></lg><mg><tg xml:lang="udm"><t>пукыса</t></tg><xg><x>vastata istualtaan</x><xt>интыысеныд (юанлы) вераны</xt><xt>интыяд пукыса (юанлы) вераны</xt></xg></mg></e>
 <e><lg><l pos="Adv">istualleen</l></lg><mg><tg xml:lang="udm"><t>пукыса</t></tg><xg><x>nukkua istualleen</x><xt>пуконъяд умме усьыны</xt></xg><xg><x>nousta istualleen</x><xt>(кыллемысь султыса) пуксьыны</xt></xg></mg></e>
 <e><lg><l pos="Adv">jalkeilla</l></lg><mg><tg xml:lang="udm"><t>пыд йылын</t></tg><xg><x>olla jalkeilla</x><xt>пыд йылын луыны</xt><xt>пыд йылын сылыны</xt></xg></mg><mg><defNative>hereillä</defNative><tg xml:lang="udm"><t>сазь</t></tg><xg><x>olla jalkeilla</x><xt>сазь  луыны</xt><xt>сайкамын луыны</xt></xg></mg></e>
 <e><lg><l pos="Adv">jalkeilla</l></lg><mg><tg xml:lang="udm"><t>пыд йылэ</t></tg><xg><x>päästä jalkeille</x><xt>(пыд йылэ) султыны</xt></xg></mg><mg><defNative>hereille</defNative><xg><x>päästä jalkeille</x><xt>иземысь султыны</xt></xg><xg><x>saada jalkeille</x><xt>пыд йылэ султытыны</xt><xt>пыд йылэ ӝутыны</xt><xt>(<i>hereille</i>) валесысь ӝутыны, сайкатыны</xt></xg></mg></e>

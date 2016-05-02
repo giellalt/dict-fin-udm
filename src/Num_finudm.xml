@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
+<e> <lg> <l pos="Num">kahdeksan</l> <sup>10</sup> </lg> <mg><tg xml:lang="udm"><t>тямыс</t></tg>; <xg><x>k. päivän kuluessa</x><xt xml:lang="udm"> тямыс нунал ӵоже</xt></xg>; <xg><x>kahdeksassa päivässä</x><xt xml:lang="udm"> тямыс нуналскын</xt></xg> </mg> </e>
+<e> <lg> <l pos="Num">kahdeksankymmentä</l> </lg> <mg> <tg xml:lang="udm"> <t>тямыстон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kahdeksantoista</l> </lg> <mg> <tg xml:lang="udm"> <t>дас тямыс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kahdeksas</l> <sup>45</sup> </lg> <mg> <tg xml:lang="udm"> <t>тямысэʼтӥʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kaksikymmentä</l> </lg> <mg> <tg xml:lang="udm"> <t>кызь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kaksisataa</l> </lg> <mg> <tg xml:lang="udm"> <t>кык сю</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kaksitoista</l> </lg> <mg> <tg xml:lang="udm"> <t>дас кык</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kolmekymmentä</l> </lg> <mg> <tg xml:lang="udm"> <t>куамын</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kolmetoista</l> </lg> <mg> <tg xml:lang="udm"> <t>дас куинь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kuudes</l> <sup>45</sup> </lg> <mg><tg xml:lang="udm"><t>куатеʼтӥʼ</t></tg>; <xg><x>heinäkuun kuudentena päivänä</x><xt xml:lang="udm"> пӧсьтолэзьлэн куатеʼтӥʼ нуналаз, куатеʼтӥʼ пӧсьтолэзе</xt></xg> </mg> </e>
+<e> <lg> <l pos="Num">kuusikymmentä</l> </lg> <mg> <tg xml:lang="udm"> <t>куатьтон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kuusitoista</l> </lg> <mg> <tg xml:lang="udm"> <t>дас куать</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">kymmenen</l> <sup>32</sup> </lg> <mg> <tg xml:lang="udm"> <t>дас</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">miljoona</l> <sup>10</sup> </lg> <mg> <tg xml:lang="udm"> <t>миллион</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">neljä</l> <sup>5</sup> </lg> <mg><tg xml:lang="udm"><t>ньыль</t></tg>; <xg><x>neljän päivän kuluessa</x><xt xml:lang="udm"> ньыль нунал ӵоже</xt></xg>; <xg><x>neljässä päivässä</x><xt xml:lang="udm"> ньылёйскын, ньыль нуналскын</xt></xg>; <xg><x>neljässä paikassa</x><xt xml:lang="udm"> ньылеʼтӥʼ, ньыль интыын</xt></xg> </mg> </e>
+<e> <lg> <l pos="Num">neljäkymmentä</l> </lg> <mg> <tg xml:lang="udm"> <t>ньыльдон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">nolla</l> <sup>10</sup> </lg> <mg><tg xml:lang="udm"><t>ноль</t><t>нуль</t></tg>; <xg><x>lämpömittari on nollassa</x><xt xml:lang="udm"> термоʼметр ноль возьматэ</xt></xg></mg> </e>
+<e> <lg> <l pos="Num">puolitoista</l> </lg> <mg> <tg xml:lang="udm"> <t>одӥг но ӝыны</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">sadas</l> <sup>45</sup> </lg> <mg> <tg xml:lang="udm"> <t>сюэʼтӥʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">sata</l> <sup>9-F</sup> </lg> <mg><tg xml:lang="udm"><t>сю</t></tg>; <xg><x>kaksisataa</x><xt xml:lang="udm"> кык сю</xt></xg> </mg> </e>
+<e> <lg> <l pos="Num">seitsemän</l> <sup>10</sup> </lg> <mg> <tg xml:lang="udm"> <t>сизьым</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seitsemänkymmentä</l> </lg> <mg> <tg xml:lang="udm"> <t>сизьымдон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seitsemäntoista</l> </lg> <mg> <tg xml:lang="udm"> <t>дас сизьым</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seitsemäs</l> <sup>45</sup> </lg> <mg> <tg xml:lang="udm"> <t>сизьымеʼтӥʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">tuhannes</l> <sup>45</sup> </lg> <mg> <tg xml:lang="udm"> <t>сюрсэʼтӥʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">tuhat</l> <sup>46</sup> </lg> <mg><tg xml:lang="udm"><t>сюрс</t></tg>; <xg><x>kaksi tuhatta</x><xt xml:lang="udm"> кык сюрс</xt></xg>; <xg><x>tuhansien järvien maa</x><xt xml:lang="udm"> уно сюрс тыо(сын) шаер</xt></xg> </mg> </e>
+<e> <lg> <l pos="Num">viisi</l> <sup>27</sup> </lg> <mg><tg xml:lang="udm"><t>вить</t></tg>; <xg><x>v. päivää</x><xt xml:lang="udm"> вить нунал</xt></xg>; <xg><x>meitä on täällä v.</x><xt xml:lang="udm"> ми татын вить кузя</xt></xg>; <xg><x>viidessä päivässä</x><xt xml:lang="udm"> витёйскын, вить нуналскын</xt></xg>; <xg><x>viidessä paikassa</x><xt xml:lang="udm"> витеʼтӥʼ, вить интыын</xt></xg> </mg> </e>
+<e> <lg> <l pos="Num">viisikymmentä</l> </lg> <mg> <tg xml:lang="udm"> <t>витьтон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">viisitoista</l> </lg> <mg> <tg xml:lang="udm"> <t>дас вить</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yhdeksän</l> <sup>10</sup> </lg> <mg><tg xml:lang="udm"><t>укмыс</t></tg>; <xg><x>y. päivän kuluessa</x><xt xml:lang="udm"> укмыс нунал ӵоже</xt></xg>; <xg><x>yhdeksässä päivässä</x><xt xml:lang="udm"> укмыс нуналскын</xt></xg> </mg> </e>
+<e> <lg> <l pos="Num">yhdeksänkymmentä</l> </lg> <mg> <tg xml:lang="udm"> <t>укмыстон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yhdeksäntoista</l> </lg> <mg> <tg xml:lang="udm"> <t>дас укмыс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yhdeksäs</l> <sup>45</sup> </lg> <mg> <tg xml:lang="udm"> <t>укмысэʼтӥʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">yksitoista</l> </lg> <mg> <tg xml:lang="udm"> <t>дас одӥг</t> </tg> </mg> </e>
+
+</r>

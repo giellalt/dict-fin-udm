@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
+<e> <lg> <l pos="Det">eräs</l> <sup>41</sup> </lg> <mg><pos>нв.</pos><b>1.</b> <tg xml:lang="udm"><tCtn><defNative>yksi</defNative><t>одӥг(ез)</t><t>ог(ез)</t></tCtn></tg>; <tg xml:lang="udm"><tCtn><defNative>jonkinlainen</defNative><t>кыӵе ке</t></tCtn></tg>; <xg><x>e. ihminen sanoi siitä minulle</x><xt xml:lang="udm">одӥг адями мыным со сярысь вераз</xt></xg>; <xg><x>eräänä päivänä</x><xt xml:lang="udm">одӥг нуналэ, огнунал</xt></xg>; <xg><x>e. ystävistäni</x><xt xml:lang="udm">одӥгез эшъёсы пӧлысь</xt></xg>; <xg><x>erääseen paikkaan</x><xt xml:lang="udm">кыӵе ке интые, огинтые</xt></xg> </mg> <mg NoId="TWO"><tg xml:lang="udm"><tCtn><defNative>yhtä useasta</defNative><t>куд-ог(ез)</t><t>кудӥз-огез</t></tCtn></tg>; <tg xml:lang="udm"><tCtn><defNative>muutama</defNative><t>кӧня ке</t></tCtn></tg>; <xg><x>eräissä tapauksissa</x><xt xml:lang="udm">куд-ог учыръёсы</xt></xg>; <xg><x>eräät muut</x><xt xml:lang="udm">кудӥз-огез, куд-огез мукетъёсыз</xt></xg>; <xg><x>eräitä vuosia sitten</x><xt xml:lang="udm">кӧня ке ар талэсь азьло</xt></xg> </mg> </e>
+<e> <lg> <l pos="Det">kahdeksaskymmenes</l> </lg> <mg> <tg xml:lang="udm"> <t>тямыстонэʼтӥʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">kahdeskymmenes</l> </lg> <mg> <tg xml:lang="udm"> <t>кызеʼтӥʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">kolmaskymmenes</l> </lg> <mg> <tg xml:lang="udm"> <t>куамынэʼтӥʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">neljäskymmenes</l> </lg> <mg> <tg xml:lang="udm"> <t>ньыльдонэʼтӥʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">yhdeksäskymmenes</l> </lg> <mg> <tg xml:lang="udm"> <t>укмыстонэʼтӥʼ</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">yhdestoista</l> </lg> <mg> <tg xml:lang="udm"> <t>дас одӥгеʼтӥʼ</t> </tg> </mg> </e>
+
+</r>

@@ -598,7 +598,7 @@
 <e> <lg> <l pos="N">haaraosasto</l> <sup>2</sup> </lg> <mg> <tg xml:lang="udm"> <t>филиал</t><t>ёз(люкет)*</t><t>отделеʼние</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">haarniska</l> <sup>13</sup> </lg> <mg> <field>ист.</field> <tg xml:lang="udm"> <t>броня</t><t>кольчуʼга</t><t>кортдэрем*</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">haastattelija</l> <sup>12</sup> </lg> <mg> <tg xml:lang="udm"> <t>юалляськись</t><t>интервью [-тэ-] басьтӥсь</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">haava</l> <sup>9</sup> </lg> <mg><b>II</b><xg><x>tällä haavaa</x><xt>та вие</xt><xt>та дыре</xt><xt>али</xt></xg>; <xg><x>sillä haavaa</x><xt xml:lang="udm">со вие , соку</xt><xt xml:lang="udm">со дыре , соку</xt></xg> </mg> </e>
+<e> <lg> <l pos="N">haava</l> <sup>9</sup> </lg> <mg><b>II</b><xg><x>tällä haavaa</x><xt>та вие</xt><xt>та дыре</xt><xt>али</xt></xg>; <xg><x>sillä haavaa</x><xt xml:lang="udm">со вие</xt><xt xml:lang="udm">со дыре</xt><xt xml:lang="udm">соку</xt></xg> </mg> </e>
 <e> <lg> <l pos="N">haavauma</l> <sup>10</sup> </lg> <mg> <field>мед.</field> <tg xml:lang="udm"> <t>яра</t><t>яʼзва</t><t>яраӟектэм инты</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">haave</l> <sup>48</sup> </lg> <mg><tg xml:lang="udm"><t>малпа(сько)н</t><t>визьпӧръет*</t><t>фантаʼзи(я)</t></tg>; <xg><x>vaipua omiin haaveisiinsa</x><xt xml:lang="udm">ас малпанъёсад выйыны</xt></xg>; <xg><x>unohtua haaveisiinsa</x><xt xml:lang="udm">ас вактад усьыны, ас малпанъёсад выйыны</xt></xg> </mg> </e>
 <e> <lg> <l pos="N">haaveilija</l> <sup>12</sup> </lg> <mg> <tg xml:lang="udm"> <t>малпаськись (мурт)</t><t>пӧръясь (мурт)</t><t>фантазиʼровать карись (мурт)</t> </tg> </mg> </e>

@@ -102,7 +102,8 @@
 <e><lg><l pos="N">kerronta</l><sup>9-J</sup></lg><mg><tg xml:lang="udm"><t>мадён</t><t>мадем</t><t>веран</t><t>верам</t><t>мадиськoн</t><t>мадиськем</t></tg>; <i>ӵшт.</i> &gt; <b>kertoa 1</b> </mg></e>
 <e><lg><l pos="N">kersantti</l><sup>5-C</sup></lg><mg><field>ож.</field><tg xml:lang="udm"><t>сержант</t></tg></mg></e>
 <e><lg><l pos="N">kerskailija</l><sup>12</sup></lg><mg><tg xml:lang="udm"><t>ушъяськись</t><t>шоккес(ъяськись)</t><t>ӟечъяськись (мурт)</t></tg></mg></e>
-<e><lg><l pos="N">kerskuri</l><sup>6</sup></lg><mg>&gt; <b>kerskailija</b></mg></e> </xt></xg><b>=kertainen</b><sup>38</sup> полэс; пол(лы); <xg><x>kaksink.</x><xt xml:lang="udm"> кык полэс; кык пол(лы)</xt></xg>; <xg><x>monink. harsokangas</x><xt xml:lang="udm"> трос полэс марля</xt></xg>; <xg><x>monink. viisumi</x><xt xml:lang="udm"> трос поллы виʼза</xt></xg> </mg> </e>
+<e><lg><l pos="N">kerskuri</l><sup>6</sup></lg><mg>&gt; <b>kerskailija</b></mg></e>
+<e><lg><l pos="Suff/A">=kertainen</l><sup>38</sup></lg><mg><tg xml:lang="udm"><t>полэс; пол(лы)</t></tg>; <xg><x>kaksink.</x><xt xml:lang="udm"> кык полэс; кык пол(лы)</xt></xg>; <xg><x>monink. harsokangas</x><xt xml:lang="udm"> трос полэс марля</xt></xg>; <xg><x>monink. viisumi</x><xt xml:lang="udm"> трос поллы виʼза</xt></xg> </mg> </e>
 <e> <lg> <l pos="N">Aasia</l> <sup>12</sup> </lg> <mg><field>геогр.</field><tg xml:lang="udm"><t>Аʼзия</t></tg>; <xg><x>Aasian asukas</x><xt xml:lang="udm">Аʼзиын улӥсь (мурт)</xt></xg> </mg> </e>
 <e> <lg> <l pos="N">Afrikka</l> <sup>14-A</sup> </lg> <mg> <field>геогр.</field> <tg xml:lang="udm"> <t>Аʼфрика</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">Ahvenanmaa</l> <sup>18</sup> </lg> <mg><field>геогр.</field><tg xml:lang="udm"><t>Аланд</t></tg>; <xg><x>Ahvenanmaan saaristo</x><xt xml:lang="udm">Аланд шормуӵъёс</xt></xg> </mg> </e>

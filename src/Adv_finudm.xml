@@ -747,6 +747,11 @@
 <e><lg><l pos="Adv">äkkiarvaamatta</l></lg><mg><tg xml:lang="udm"><t>малпамтэ шорысь</t><t>витьымтэ, шӧдтэк шорысь</t></tg></mg></e>
 <e><lg><l pos="Adv">ääneti</l></lg><mg><tg xml:lang="udm"><t>чалмыт, шып(ыт), вераськытэк</t></tg>; <xg><x>olla ä.</x><xt xml:lang="udm"> чалмыт улыны</xt><xt xml:lang="udm"> вераськытэк улыны</xt></xg>; <xg><x>istua ä.</x><xt xml:lang="udm"> чаʼл-чал пукыны</xt><xt xml:lang="udm"> шып пукыны</xt></xg></mg></e>
 <e><lg><l pos="Adv">äänettömästi</l></lg><mg><tg xml:lang="udm"><t>куаратэк, чалмыт, шып(ыт)</t></tg>; <tg xml:lang="udm"><tCtn><defNative>puhumatta</defNative><t>вераськытэк</t></tCtn></tg>; <xg><x>kone käy ä.</x><xt xml:lang="udm">механизм куаратэк ужа</xt><xt xml:lang="udm">механизм шып гинэ ужа</xt></xg></mg></e>
+
+<e><lg><l pos="Adv">viereltä</l></lg><mg><tg xml:lang="udm"><t>доры|сь, -сен</t></tg>; <tg xml:lang="udm"><tCtn><defNative>varrelta</defNative><t>урдсы|сь, -сен, дуры|сь, -сен</t></tCtn></tg></mg></e>
+<e><lg><l pos="Adv">kohdalle</l></lg><mg><tg xml:lang="udm"><t>вадьсы</t></tg>; <tg xml:lang="udm"><tCtn><defNative>kohdalle asti</defNative><t>вадьсозь</t></tCtn></tg></mg></e>
+<e><lg><l pos="Adv">puoleen</l></lg><mg><tg xml:lang="udm"><t>пала, =лы</t></tg>; <xg><x>vetää kaikkien huomio puoleensa</x><xt xml:lang="udm">ваʼньзылэʼсь саклыксэс ас палад кыскыны</xt><xt xml:lang="udm">ваʼньзылэʼсь саклыксэс ас палад берыктыны</xt></xg></mg></e>
+<e><lg><l pos="Adv">taakse</l></lg><mg><tg xml:lang="udm"><t>сьӧры, бер|е, -ы</t></tg><xg><x>kaupunki jäi taaksemme</x><xt xml:lang="udm">гоʼрод берамы кылиз</xt><xt xml:lang="udm">гоʼрод мышкамы кылиз</xt></xg></mg></e>
 </r>
 
 

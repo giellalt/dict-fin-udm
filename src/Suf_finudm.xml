@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
+
+<e> <lg> <l pos="Suff/A">=karvainen</l><sup>38</sup></lg><mg><field>куш.</field><tg xml:lang="udm"><t>гон|ъем, -о</t></tg>; <xg><x>pitkäk.</x><xt xml:lang="udm"> кузь гонъем</xt></xg>; <xg><x>harmaak.</x><xt xml:lang="udm"> пурысь гонъем</xt></xg></mg></e>
+<e> <lg> <l pos="Suff/A">=luonteinen</l><sup>38</sup></lg><mg><tg xml:lang="udm"><t>сям|ъем, -о</t></tg>; <xg><x>heikkol.</x><xt xml:lang="udm"> ляб сямъем</xt><xt xml:lang="udm"> небыт сямъем</xt></xg>; <xg><x>hyväl.</x><xt xml:lang="udm"> ӟеч сямъем</xt></xg> </mg></e>
+<e> <lg> <l pos="Suff/A">=nenäinen</l></lg><mg><tg xml:lang="udm"><t>ныр|о, -ъем</t></tg>; <xg><x>pystyn.</x><xt xml:lang="udm"> чат(ы)рес ныро</xt></xg>; <xg><x>pitkän.</x><xt xml:lang="udm"> кузь ныро</xt></xg> </mg></e>
+<e> <lg> <l pos="Suff/A">=vuotias</l><sup>41</sup></lg><mg><field>куш.</field><tg xml:lang="udm"><t>аресъем, арес</t></tg>; <tg xml:lang="udm"><tCtn><defNative>eiihmisistä</defNative><t>аръем, ар</t></tCtn></tg>; <xg><x>kolmiv.</x><xt xml:lang="udm"> куинь аресъем</xt></xg>; <xg><x>neliv.</x><xt xml:lang="udm"> ньыль аресъем</xt></xg>; <xg><x>kymmenv.</x><xt xml:lang="udm"> дас аресъем</xt></xg>; <xg><x>pääsin 17-vuotiaana ylioppilaaksi</x><xt xml:lang="udm">17 арескын студент луи</xt><xt xml:lang="udm">17 аресъем дыръям студент луи</xt></xg>; <xg><x>satav. seura</x><xt xml:lang="udm"> сю аръем оʼбщество</xt></xg></mg></e>
+</r>
+
+

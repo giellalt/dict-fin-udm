@@ -7,4 +7,10 @@
 <e> <lg> <l pos="Pref">teko=</l> </lg> <mg> <field>куш.</field> <tg xml:lang="udm"> <t>лэсьтэм</t><t>искуʼсственной [-уст-]</t> </tg> </mg> </e>
 <e> <lg> <l pos="Pref">ulko=</l> </lg> <mg><field>куш.</field><tg xml:lang="udm"><t>педпал</t><t>педлось</t><t>кыр</t></tg>; <xg><x>ulkoantenni</x><xt xml:lang="udm"> педлось антеʼнна тэ-</xt></xg>; <xg><x>ulkokautta</x><xt xml:lang="udm"> педлотӥ, педласянь, педпалтӥ(з)</xt></xg></mg> </e>
 <e> <lg> <l pos="Pref">ylä=</l> </lg> <mg> <field>куш.</field> <tg xml:lang="udm"> <t>вылӥ(ысез)</t><t>вылысь</t><t>вылысез</t> </tg> </mg> </e>
+
+<e><lg><l pos="Prefix">ala=</l></lg><mg NoId="ONE"><pos>куш.</pos><tg xml:lang="udm"><t>улӥ(ысез), улыс|ь, ез</t></tg></mg></e>
+<e><lg><l pos="Prefix">alkeis=</l></lg><mg NoId="ONE"><pos>куш.</pos><tg xml:lang="udm"><t>кутскон, улӥ, элементаʼрной</t></tg></mg></e>
+<e><lg><l pos="Prefix">epä=</l></lg><mg NoId="ONE"><pos>куш.</pos><tg xml:lang="udm"><t>=тэм, =мтэ, =тэк</t></tg>; <xg><x>epätasainen</x><xt xml:lang="udm">ӵошкыттэм, ӵошкыт ӧвӧл</xt></xg> <i>pred.</i>; <xg><x>epäonnistunut</x><xt xml:lang="udm">пӧрмымтэ</xt></xg> </mg></e>
+<e><lg><l pos="Prefix">etu=</l></lg><mg NoId="ONE"><pos>куш.</pos><tg xml:lang="udm"><t>азь(пал)</t></tg>; <xg><x>hevosen etujalat</x><xt xml:lang="udm">валлэн азь пыдъёсыз</xt></xg>; <xg><x>etuistuin</x><xt xml:lang="udm">азьпал пукон</xt></xg> </mg></e>
+<e><lg><l pos="Prefix">hätä=</l></lg><mg NoId="ONE"><pos>куш.</pos><tg xml:lang="udm"><t>авариʼйной; шуге-леке ву|он, -ыса, (туж) кулэяськ|он, -ыса</t></tg>; <xg><x>hätäkorjaus</x><xt xml:lang="udm">авариʼйной ремонт</xt></xg>; <xg><x>hätälasku</x><xt xml:lang="udm">шуге-леке вуыса пуксён (</xt></xg><i>самолёт ссь)</i>; <xg><x>hätämerkki</x><xt xml:lang="udm">шуге-леке вуэм сигнал</xt></xg> </mg></e>
 </r> 

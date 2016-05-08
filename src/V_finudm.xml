@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<r xml:lang="fin">
+<r id="finudm" xml:lang="fin">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+For the full license text, see the link above.</lic>
+      <ref>The material is based on the following dictionaries compiled at the University of Turku, Finland:
+Sergej Maksimov, Sirkka Saarinen, Vadim Danilov &amp; Ekaterina Seliverstova: Suomalais-udmurttilainen sanakirja (2013).
+Proofreading of the electronic material: Tomi Koivunen.
+
+Funding of the online dictionary: The Kone Foundation (Finland).
+
+         Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+The material was prepared for electronic publication by Jack Rueter.
+     THIS TEXT HAS BEEN TAKEN FROM THE ORIGINAL PDF DOCUMENT, which may have caused sporadic problems in its transformation into electronic form. 
+
+This is NOT a fully styled and published dictionary.
+Possible errors following proofreading are, e. g., substitution of special fonts with wrong signs, combining of rows between columns, and the loss of the original signs for syllable stress.
+     <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+      </sourcenote>
+   </lics>
+
 <e><lg><l pos="V">haltioitua</l></lg><mg><xg><x>haltioitua jstak</x><xt>туж потыны, куаныны; абдраны, паймыны</xt><xt>зол потыны, куаныны; абдраны, паймыны</xt><xt>шуʼмпотыны, куаныны; абдраны, паймыны</xt> (<i>ксь чеберлы</i>)</xg><xg><x>haltioitua musiikista</x><xt>крезьгурлы куаныны</xt></xg></mg></e>
 <e><lg><l pos="V">kasaantua</l><sup>52-J</sup></lg><mg>&gt; <b>kasautua</b> </mg></e>
 <e><lg><l pos="V">kastella</l><sup>67</sup></lg><mg><tg xml:lang="udm"><t>коттыны</t></tg>; <tg xml:lang="udm"><tCtn><defNative>pirskottaa,ruiskuttaa</defNative><t>пызйылыны, (ву) пазяны</t></tCtn></tg>; <tg xml:lang="udm"><tCtn><defNative>kukkia, vihanneksia</defNative><t>киськаны</t><t>кисьтаны</t></tCtn></tg>; <xg><x>kastelin jalkani</x><xt xml:lang="udm"> пыдме коттӥ</xt></xg>; <xg><x>k. kukkia</x><xt xml:lang="udm"> сяськае ву киськаны</xt></xg> </mg></e>

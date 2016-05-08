@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" id="finudm" xml:lang="fin">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+For the full license text, see the link above.</lic>
+      <ref>The material is based on the following dictionaries compiled at the University of Turku, Finland:
+Sergej Maksimov, Sirkka Saarinen, Vadim Danilov &amp; Ekaterina Seliverstova: Suomalais-udmurttilainen sanakirja (2013).
+Proofreading of the electronic material: Tomi Koivunen.
+
+Funding of the online dictionary: The Kone Foundation (Finland).
+
+         Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+The material was prepared for electronic publication by Jack Rueter.
+     THIS TEXT HAS BEEN TAKEN FROM THE ORIGINAL PDF DOCUMENT, which may have caused sporadic problems in its transformation into electronic form. 
+
+This is NOT a fully styled and published dictionary.
+Possible errors following proofreading are, e. g., substitution of special fonts with wrong signs, combining of rows between columns, and the loss of the original signs for syllable stress.
+     <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+      </sourcenote>
+   </lics>
 <e> <lg> <l pos="Interj">hei</l> </lg> <mg NoId="ONE"><tg xml:lang="udm"><tCtn><defNative>tervehdyssanana</defNative><t>ӟеч!</t><t>чырткем!</t><t>умой!</t></tCtn></tg>; <tg xml:lang="udm"><tCtn><defNative>hyvästelysanana</defNative><t>ӟеч (лу)!</t></tCtn></tg>; <xg><x>hei Marja!</x><xt xml:lang="udm">чырткем, Марья!</xt></xg> </mg> <mg NoId="TWO"><pos>вк.</pos><tg xml:lang="udm"><tCtn><defNative>kehotuksissa, varoituksissa, yllättyneissä toteamuksissa yms.</defNative><t>э(э)</t><t>эй</t></tCtn></tg>; <xg><x>hei, kuka siellä?</x><xt xml:lang="udm">эй, кин отын?</xt></xg> </mg> <mg NoId="THREE"> <pos>вк.</pos><tg xml:lang="udm"><tCtn><defNative>ilmaisee iloa, riemua</defNative><t>эк</t><t>от</t></tCtn></tg>; <xg><x>hei, tämähän on mukavaa!</x><xt xml:lang="udm">эк, кыӵе умой та!</xt></xg> </mg> </e>
 <e> <lg> <l pos="Interj">hus</l> </lg> <mg><pos>вк.</pos><tg xml:lang="udm"><tCtn><defNative>kissalle</defNative><t>пирыс</t></tCtn></tg>; <tg xml:lang="udm"><tCtn><defNative>koiralle</defNative><t>тьӧʼбы</t></tCtn></tg>; <tg xml:lang="udm"><tCtn><defNative>sialle</defNative><t>урсь</t></tCtn></tg>; <tg xml:lang="udm"><tCtn><defNative>lampaalle</defNative><t>штыр</t></tCtn></tg>; <tg xml:lang="udm"><tCtn><defNative>linnuille</defNative><t>кыш</t></tCtn></tg></mg> </e>
 <e> <lg> <l pos="Interj">jaa</l> </lg> <mg><pos>вк.</pos><b>1.</b> <i>вер. </i><tg xml:lang="udm"><tCtn><defNative>muistamista ilmaisemassa</defNative><t>а</t></tCtn></tg>; <tg xml:lang="udm"><tCtn><defNative>epäröidessä, epämääräisenä vastauksena</defNative><t>о-о</t><t>бен</t><t>озьы</t></tCtn></tg>; <tg xml:lang="udm"><tCtn><defNative>kysymystä aloittamassa</defNative><t>нош</t></tCtn></tg>; <xg><x>jaa, vai sillä lailla?</x><xt xml:lang="udm">а, озьы-а?</xt></xg>; <xg><x>jaa, en nyt oikein tiedä</x><xt xml:lang="udm">бен, мар вераны ик уг тодӥськы</xt></xg>; <xg><x>jaa mihin aikaan?</x><xt xml:lang="udm">нош кӧня часэ?</xt></xg> </mg> <mg NoId="TWO"><tg xml:lang="udm"><t>озьы; понна</t></tg>; <xg><x>jaa vai ei?</x><xt xml:lang="udm">озьы-а, ӧвӧл-а?, озьы яке ӧвӧл?; (со) понна яке пумит?</xt></xg> </mg> </e>

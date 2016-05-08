@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" id="finudm" xml:lang="fin">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+For the full license text, see the link above.</lic>
+      <ref>The material is based on the following dictionaries compiled at the University of Turku, Finland:
+Sergej Maksimov, Sirkka Saarinen, Vadim Danilov &amp; Ekaterina Seliverstova: Suomalais-udmurttilainen sanakirja (2013).
+Proofreading of the electronic material: Tomi Koivunen.
+
+Funding of the online dictionary: The Kone Foundation (Finland).
+
+         Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+The material was prepared for electronic publication by Jack Rueter.
+     THIS TEXT HAS BEEN TAKEN FROM THE ORIGINAL PDF DOCUMENT, which may have caused sporadic problems in its transformation into electronic form. 
+
+This is NOT a fully styled and published dictionary.
+Possible errors following proofreading are, e. g., substitution of special fonts with wrong signs, combining of rows between columns, and the loss of the original signs for syllable stress.
+     <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+      </sourcenote>
+   </lics>
 
 <e> <lg> <l pos="Suff/A">=karvainen</l><sup>38</sup></lg><mg><field>куш.</field><tg xml:lang="udm"><t>гон|ъем, -о</t></tg>; <xg><x>pitkäk.</x><xt xml:lang="udm"> кузь гонъем</xt></xg>; <xg><x>harmaak.</x><xt xml:lang="udm"> пурысь гонъем</xt></xg></mg></e>
 <e> <lg> <l pos="Suff/A">=luonteinen</l><sup>38</sup></lg><mg><tg xml:lang="udm"><t>сям|ъем, -о</t></tg>; <xg><x>heikkol.</x><xt xml:lang="udm"> ляб сямъем</xt><xt xml:lang="udm"> небыт сямъем</xt></xg>; <xg><x>hyväl.</x><xt xml:lang="udm"> ӟеч сямъем</xt></xg> </mg></e>

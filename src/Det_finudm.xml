@@ -8,4 +8,6 @@
 <e> <lg> <l pos="Det">yhdeksäskymmenes</l> </lg> <mg> <tg xml:lang="udm"> <t>укмыстонэʼтӥʼ</t> </tg> </mg> </e>
 <e> <lg> <l pos="Det">yhdestoista</l> </lg> <mg> <tg xml:lang="udm"> <t>дас одӥгеʼтӥʼ</t> </tg> </mg> </e>
 
+<e><lg><l pos="Det">kymmenes</l><sup>45</sup></lg><mg><tg xml:lang="udm"><t>дасэʼтӥʼ</t></tg>; <xg><x>kun hän tuli kymmenennen kerran</x><xt xml:lang="udm"> дасэʼтӥзэʼ лыктэмез бере</xt><xt xml:lang="udm"> дасэʼтӥʼ полаз лыктэмез бере</xt></xg></mg></e>
+<e><lg><l pos="Det">viime</l></lg><mg><i>вошсьт.</i> <b>1.</b> <tg xml:lang="udm"><tCtn><defNative>viimeksi ollut</defNative><t>кылем</t></tCtn></tg>; <xg><x>v. viikolla</x><xt xml:lang="udm"> кылем арняе</xt></xg>; <xg><x>v. kuussa</x><xt xml:lang="udm"> кылем толэзе</xt></xg>; <xg><x>v. vuosi</x><xt xml:lang="udm"> кылем ар</xt><xt xml:lang="udm"> мимала ар</xt></xg>; <xg><x>v. vuonna</x><xt xml:lang="udm">кылем арын , ми(ы)м</xt><xt xml:lang="udm">кылем аре , ми(ы)м</xt></xg>; <xg><x>v. kesänä</x><xt xml:lang="udm"> кылем гужем (</xt></xg><i>ку?</i>) </mg><mg NoId="TWO"><tg xml:lang="udm"><tCtn><defNative>viimeinen</defNative><t>бер|ло, пум</t></tCtn></tg>; <xg><x>v. aikoina</x><xt xml:lang="udm"> берло дыре</xt></xg>; <xg><x>v. vuosina</x><xt xml:lang="udm">берло аръёсы</xt><xt xml:lang="udm">берло аръёс ӵоже</xt></xg></mg></e>
 </r>

@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="fin">
-<e><lg><l pos="Adv">hyvästi</l></lg><mg NoId="ONE"><udm>></udm> <b>hyvin</b></mg></e>
-<e><lg><l pos="Adv">jäljestäpäin</l></lg><mg NoId="ONE"><udm>></udm> <b>jälkeenpäin</b> </mg></e>
+<e><lg><l pos="Adv">hyvästi</l></lg><mg NoId="ONE"><udm></udm>&gt; <b>hyvin</b></mg></e>
+<e><lg><l pos="Adv">jäljestäpäin</l></lg><mg NoId="ONE"><udm></udm>&gt; <b>jälkeenpäin</b> </mg></e>
 
- <e><lg><l pos="A">hapero</l></lg><mg NoId="ONE"><udm>></udm> <b>hapera</b></mg></e>
- <e><lg><l pos="A">huimapää</l><sup>18</sup></lg><mg NoId="ONE"><udm>></udm> <b>huimapäinen</b></mg></e>
- <e><lg><l pos="A">jääräpää</l><sup>18</sup></lg><mg NoId="ONE"><udm>></udm> <b>jääräpäinen</b></mg></e>
- <e><lg><l pos="A">ainoalaatuinen</l><sup>38</sup></lg><mg NoId="ONE"><udm>></udm> <b>ainutlaatuinen</b> </mg></e>
- <e><lg><l pos="A">alituinen</l><sup>38</sup></lg><mg NoId="ONE"><udm>></udm> <b>alinomainen</b> </mg></e>
- <e><lg><l pos="A">harmittava</l></lg><mg NoId="ONE"><udm>></udm> <b>harmillinen</b> </mg></e>
- <e><lg><l pos="A">hidasälyinen</l><sup>38</sup></lg><mg NoId="ONE"><udm>></udm> <b>hidasjärkinen</b> </mg></e>
- <e><lg><l pos="A">hirvittävä</l><sup>10</sup></lg><mg NoId="ONE"><udm>></udm> <b>hirveä</b> </mg></e>
+ <e><lg><l pos="A">hapero</l></lg><mg NoId="ONE"><udm></udm>&gt; <b>hapera</b></mg></e>
+ <e><lg><l pos="A">huimapää</l><sup>18</sup></lg><mg NoId="ONE"><udm></udm>&gt; <b>huimapäinen</b></mg></e>
+ <e><lg><l pos="A">jääräpää</l><sup>18</sup></lg><mg NoId="ONE"><udm></udm>&gt; <b>jääräpäinen</b></mg></e>
+ <e><lg><l pos="A">ainoalaatuinen</l><sup>38</sup></lg><mg NoId="ONE"><udm></udm>&gt; <b>ainutlaatuinen</b> </mg></e>
+ <e><lg><l pos="A">alituinen</l><sup>38</sup></lg><mg NoId="ONE"><udm></udm>&gt; <b>alinomainen</b> </mg></e>
+ <e><lg><l pos="A">harmittava</l></lg><mg NoId="ONE"><udm></udm>&gt; <b>harmillinen</b> </mg></e>
+ <e><lg><l pos="A">hidasälyinen</l><sup>38</sup></lg><mg NoId="ONE"><udm></udm>&gt; <b>hidasjärkinen</b> </mg></e>
+ <e><lg><l pos="A">hirvittävä</l><sup>10</sup></lg><mg NoId="ONE"><udm></udm>&gt; <b>hirveä</b> </mg></e>
 
 
 
 <e><lg><l pos="Interj">juu</l></lg><mg NoId="ONE"><i>вк. вер. </i><udm>о-о, ы-ы; ></udm> <b>joo</b> </mg></e>
-<e><lg><l pos="N">balttilainen</l><sup>38</sup></lg><mg NoId="TWO"><udm>></udm> <b>baltti</b> </mg></e>
-<e><lg><l pos="N">alkeiskoulu</l><sup>2</sup></lg><mg NoId="ONE"><udm>></udm> <b>alakoulu</b> </mg></e>
-<e><lg><l pos="N">alkusanat</l><sup>9</sup></lg><mg NoId="ONE"><morphSpec>тр. л.</morphSpec><udm>></udm> <b>alkulause</b> </mg></e>
-<e><lg><l pos="N">ammattiyhdistys</l><sup>39</sup></lg><mg NoId="ONE"><udm>></udm> <b>ammattiliitto</b> </mg></e>
-<e><lg><l pos="N">asevarustus</l><sup>39</sup></lg><mg NoId="ONE"><udm>></udm> <b>aseistus</b> </mg></e>
-<e><lg><l pos="N">bulgarialainen</l><sup>38</sup></lg><mg NoId="TWO"><udm>></udm> <b>bulgaari</b> </mg></e>
+<e><lg><l pos="N">balttilainen</l><sup>38</sup></lg><mg NoId="TWO"><udm></udm>&gt; <b>baltti</b> </mg></e>
+<e><lg><l pos="N">alkeiskoulu</l><sup>2</sup></lg><mg NoId="ONE"><udm></udm>&gt; <b>alakoulu</b> </mg></e>
+<e><lg><l pos="N">alkusanat</l><sup>9</sup></lg><mg NoId="ONE"><morphSpec>тр. л.</morphSpec><udm></udm>&gt; <b>alkulause</b> </mg></e>
+<e><lg><l pos="N">ammattiyhdistys</l><sup>39</sup></lg><mg NoId="ONE"><udm></udm>&gt; <b>ammattiliitto</b> </mg></e>
+<e><lg><l pos="N">asevarustus</l><sup>39</sup></lg><mg NoId="ONE"><udm></udm>&gt; <b>aseistus</b> </mg></e>
+<e><lg><l pos="N">bulgarialainen</l><sup>38</sup></lg><mg NoId="TWO"><udm></udm>&gt; <b>bulgaari</b> </mg></e>
 <e><lg><l pos="N">Eesti</l><sup>5</sup></lg><mg NoId="ONE"><field>геогр.</field><udm>Эстоʼния; ></udm> <b>Viro</b> </mg></e>
 <e><lg><l pos="N">ehtoo</l><sup>17</sup></lg><mg NoId="ONE"><i>диал., вылӥ ст. </i><udm>ӝыт; ></udm> <b>ilta</b> </mg></e>
-<e><lg><l pos="N">eskimokieli</l><sup>26</sup></lg><mg NoId="ONE"><udm>></udm> <b>eskimo 2</b> </mg></e>
-<e><lg><l pos="N">eskimopuikko</l><sup>1-A</sup></lg><mg NoId="ONE"><udm>></udm> <b>eskimo 3</b> </mg></e>
-<e><lg><l pos="N">hallintovirkamies</l></lg><mg NoId="ONE"><udm>></udm> <b>hallintomies</b> <sup>69</sup></mg></e>
-<e><lg><l pos="N">harjoitustehtävä</l><sup>10</sup></lg><mg NoId="ONE"><udm>></udm> <b>harjoitus 3</b> </mg></e>
-<e><lg><l pos="N">heisi</l></lg><mg NoId="ONE"><udm>></udm> <b>heisipuu</b> </mg></e>
-<e><lg><l pos="N">hujoppi</l><sup>5-B</sup></lg><mg NoId="ONE"><udm>></udm> <b>huiskale</b> </mg></e>
-<e><lg><l pos="N">häväistys</l><sup>39</sup></lg><mg NoId="ONE"><udm>></udm> <b>häpäisy</b> </mg></e>
-<e><lg><l pos="N">inkerikko</l><sup>4-A</sup></lg><mg NoId="ONE"><udm>></udm> <b>inkeroinen</b> </mg></e>
-<e><lg><l pos="N">jatko-opiskelu</l><sup>2</sup></lg><mg NoId="ONE"><udm>></udm> <b>jatko-opinnot</b> </mg></e>
+<e><lg><l pos="N">eskimokieli</l><sup>26</sup></lg><mg NoId="ONE"><udm></udm>&gt; <b>eskimo 2</b> </mg></e>
+<e><lg><l pos="N">eskimopuikko</l><sup>1-A</sup></lg><mg NoId="ONE"><udm></udm>&gt; <b>eskimo 3</b> </mg></e>
+<e><lg><l pos="N">hallintovirkamies</l></lg><mg NoId="ONE"><udm></udm>&gt; <b>hallintomies</b> <sup>69</sup></mg></e>
+<e><lg><l pos="N">harjoitustehtävä</l><sup>10</sup></lg><mg NoId="ONE"><udm></udm>&gt; <b>harjoitus 3</b> </mg></e>
+<e><lg><l pos="N">heisi</l></lg><mg NoId="ONE"><udm></udm>&gt; <b>heisipuu</b> </mg></e>
+<e><lg><l pos="N">hujoppi</l><sup>5-B</sup></lg><mg NoId="ONE"><udm></udm>&gt; <b>huiskale</b> </mg></e>
+<e><lg><l pos="N">häväistys</l><sup>39</sup></lg><mg NoId="ONE"><udm></udm>&gt; <b>häpäisy</b> </mg></e>
+<e><lg><l pos="N">inkerikko</l><sup>4-A</sup></lg><mg NoId="ONE"><udm></udm>&gt; <b>inkeroinen</b> </mg></e>
+<e><lg><l pos="N">jatko-opiskelu</l><sup>2</sup></lg><mg NoId="ONE"><udm></udm>&gt; <b>jatko-opinnot</b> </mg></e>
 <e><lg><l pos="N">jeniseinsamojedi</l><sup>5</sup></lg><mg NoId="ONE"><udm>энец; ></udm> <b>enetsi</b> </mg></e>
 <e><lg><l pos="N">järistys</l><sup>39</sup></lg><mg NoId="ONE"><udm>музъем зуркан; ></udm> <b>maanjäristys</b> </mg></e>
-<e><lg><l pos="Prefix">automaatti=</l></lg><mg NoId="ONE"><pos>куш.</pos><udm>></udm> <b>automaattinen</b> </mg></e>
-<e><lg><l pos="V">ajella</l><sup>67</sup></lg><mg NoId="ONE"><i>тросл., пӧртп. </i><udm>></udm> <b>ajaa</b> </mg></e>
-<e><lg><l pos="V">halventua</l></lg><mg NoId="ONE"><udm>></udm> <b>halveta</b> <sup>72-E</sup></mg></e>
-<e><lg><l pos="V">hapantua</l><sup></sup></lg><mg NoId="ONE"><udm>></udm> <b>hapata</b> </mg></e>
-<e><lg><l pos="V">huolettaa</l><sup>53-C</sup></lg><mg NoId="ONE"><udm>></udm> <b>huolestuttaa</b> </mg></e>
-<e><lg><l pos="V">hössöttää</l><sup>53-C</sup></lg><mg NoId="ONE"><range>вер.</range><udm>></udm> <b>hömpöttää</b> </mg></e>
-<e><lg><l pos="V">jaella</l><sup>67-D</sup></lg><mg NoId="ONE"><i>тросл. но пӧртп. </i><udm>></udm> <b>jakaa 2</b> </mg></e>
+<e><lg><l pos="Prefix">automaatti=</l></lg><mg NoId="ONE"><pos>куш.</pos><udm></udm>&gt; <b>automaattinen</b> </mg></e>
+<e><lg><l pos="V">ajella</l><sup>67</sup></lg><mg NoId="ONE"><i>тросл., пӧртп. </i><udm></udm>&gt; <b>ajaa</b> </mg></e>
+<e><lg><l pos="V">halventua</l></lg><mg NoId="ONE"><defNative>hinnat</defNative><tg xml:lang="udm"><tCtn><t>кулэсмыны, синыны, усьыны </t><re>дун ссь</re></tCtn></tg>; <tg xml:lang="udm"><tCtn><defNative>tavara</defNative><t>дунтэманы</t></tCtn></tg>&gt; <b>halveta</b> <sup>72-E</sup></mg></e>
+<e><lg><l pos="V">hapantua</l><sup></sup></lg><mg NoId="ONE"><tg xml:lang="udm"><t>чырсаны</t><t>шӧма(ськы)ны</t><t>кузяны</t></tg>&gt; <b>hapata</b> </mg></e>
+<e><lg><l pos="V">huolettaa</l><sup>53-C</sup></lg><mg NoId="ONE"><tg xml:lang="udm"><t>сюлмаськытыны</t><t>сюлэмшугъяськытыны</t><t>шугекъятыны</t></tg>&gt; <b>huolestuttaa</b> </mg></e>
+<e><lg><l pos="V">hössöttää</l><sup>53-C</sup></lg><mg NoId="ONE"><range>вер.</range><tg xml:lang="udm"><t>кулэтэм уж лэсьтыны, юʼнмеʼ</t><t>кулэтэм уж лэсьтыны, тоʼкмаʼ</t></tg><tg xml:lang="udm"><t>ужен вырыны</t></tg>&gt; <b>hömpöttää</b> </mg></e>
+<e><lg><l pos="V">jaella</l><sup>67-D</sup></lg><mg NoId="ONE"><i>тросл. но пӧртп. </i><tg xml:lang="udm"><tCtn><defNative>antaa usealle</defNative><t>сётъяны</t><t>сётыны</t><t>люк(ыл)ыны</t></tCtn></tg>&gt; <b>jakaa 2</b> </mg></e>
 </r>

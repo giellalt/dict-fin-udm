@@ -26,12 +26,12 @@ Possible errors following proofreading are, e. g., substitution of special fonts
       </sourcenote>
    </lics>
 
-<e><lg><l pos="Po">jäljillä</l><drv>&gt; jälki</drv></lg><mg><xg><x>poliisi on murhaajan jäljillä</x><xt>полиʼция адями вийисьлэн пытьы вылаз потӥз ни</xt></xg></mg></e>
-<e><lg><l pos="Po">jäljille</l><drv>&gt; jälki</drv></lg><mg><xg><x>päästä jnk jäljille</x><xt>кинлэн ке пытьы вылаз потыны</xt></xg></mg></e>
+<e><lg><l pos="Po">jäljillä</l><drv>&gt; jälki</drv></lg><mg><xg><x>poliisi on murhaajan jäljillä</x><xt xml:lang="udm">полиʼция адями вийисьлэн пытьы вылаз потӥз ни</xt></xg></mg></e>
+<e><lg><l pos="Po">jäljille</l><drv>&gt; jälki</drv></lg><mg><xg><x>päästä jnk jäljille</x><xt xml:lang="udm">кинлэн ке пытьы вылаз потыны</xt></xg></mg></e>
 <e><lg><l pos="Po">jäljiltä</l><drv>&gt; jälki</drv></lg><mg></mg></e>
 <e> <lg> <l pos="Po">kuluessa</l> </lg> <mg><tg xml:lang="udm"><t>ӵоже</t><t>вылтӥ</t></tg>; <xg><x>vuoden k.</x><xt xml:lang="udm"> ар ӵоже</xt></xg>; <xg><x>kesän k.</x><xt xml:lang="udm"> гужем вылтӥ</xt></xg>; <xg><x>aikojen k.</x><xt xml:lang="udm"> дыр ортчыса</xt></xg> </mg> </e>
 <e> <lg> <l pos="Po">kuluttua</l> </lg> <mg><tg xml:lang="udm"><t>ортчыса</t><t>улыса</t><t>куспатыса</t></tg>; <xg><x>muutaman päivän k.</x><xt xml:lang="udm"> кӧня ке нунал ортчыса</xt></xg> </mg> </e>
-<e> <lg> <l pos="Po">liepeille</l> </lg> <mg> <xg> <x>fysiikan liepeille syntyneet tieteet</x> <xt>фиʼзика вӧзы кылдэм тодосъёс*</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">liepeille</l> </lg> <mg> <xg> <x>fysiikan liepeille syntyneet tieteet</x> <xt xml:lang="udm">фиʼзика вӧзы кылдэм тодосъёс*</xt> </xg> </mg> </e>
 <e> <lg> <l pos="Po">liepeiltä</l> </lg> <mg>:</mg> </e>
 <e> <lg> <l pos="Po">luo</l> </lg> <mg>&gt; <b>luokse</b></mg> </e>
 <e> <lg> <l pos="Po">päähän</l> </lg> <mg NoId="ONE"><tg xml:lang="udm"><tCtn><defNative>paikasta</defNative><t>кеме</t></tCtn></tg>; <xg><x>puut istutettiin metrin päähän toisistaan</x><xt xml:lang="udm"> писпуосты ог-огзылэсь метр кеме мерттӥзы</xt></xg> </mg> <mg NoId="TWO"/> </e>

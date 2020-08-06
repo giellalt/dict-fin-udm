@@ -29,7 +29,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 -->
 <e><lg><l pos="N">aapinen</l><variants><l_syn>aapiskirja</l_syn></variants><sup>38</sup></lg><mg><tg xml:lang="udm"><t>букварь</t><t>аʼзбука</t></tg></mg></e>
 <e><lg><l pos="N">aapiskirja</l><variants><l_syn>aapinen</l_syn></variants><sup>9</sup></lg><mg><tg xml:lang="udm"><t>букварь</t><t>аʼзбука</t></tg></mg></e>
-<e><lg><l pos="N">jama</l></lg><mg><i>вер.</i><xg><x>asiat ovat hyvässä jamassa</x><xt>ужъёс умой мыно</xt><xt>ужъёс радъяськыса кошко</xt></xg><xg><x>asiat ovat huonossa jamassa</x><xt>ужъёс уг пӧрмо</xt></xg></mg><mg><i>вер.</i><xg><x>asiat ovat menneet siihen jamaan, että ... </x><xt>ужъёс со пуме вуэмын (ни), ...</xt></xg></mg></e>
+<e><lg><l pos="N">jama</l></lg><mg><i>вер.</i><xg><x>asiat ovat hyvässä jamassa</x><xt xml:lang="udm">ужъёс умой мыно</xt><xt xml:lang="udm">ужъёс радъяськыса кошко</xt></xg><xg><x>asiat ovat huonossa jamassa</x><xt xml:lang="udm">ужъёс уг пӧрмо</xt></xg></mg><mg><i>вер.</i><xg><x>asiat ovat menneet siihen jamaan, että ... </x><xt xml:lang="udm">ужъёс со пуме вуэмын (ни), ...</xt></xg></mg></e>
 <e><lg><l pos="N">karvalakki</l><sup>5-A</sup></lg><mg><tg xml:lang="udm"><t>гоно изьы</t></tg></mg></e>
 <e><lg><l pos="N">kasari</l><sup>6</sup></lg><mg><tg xml:lang="udm"><t>ныдо миска</t></tg></mg></e>
 <e><lg><l pos="N">kasarmi</l><sup>5</sup></lg><mg><tg xml:lang="udm"><t>казаʼрма</t></tg></mg></e>
@@ -625,7 +625,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 <e> <lg> <l pos="N">haaraosasto</l> <sup>2</sup> </lg> <mg> <tg xml:lang="udm"> <t>филиал</t><t>ёз(люкет)*</t><t>отделеʼние</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">haarniska</l> <sup>13</sup> </lg> <mg> <field>ист.</field> <tg xml:lang="udm"> <t>броня</t><t>кольчуʼга</t><t>кортдэрем*</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">haastattelija</l> <sup>12</sup> </lg> <mg> <tg xml:lang="udm"> <t>юалляськись</t><t>интервью [-тэ-] басьтӥсь</t> </tg> </mg> </e>
-<e> <lg> <l pos="N">haava</l> <sup>9</sup> </lg> <mg><b>II</b><xg><x>tällä haavaa</x><xt>та вие</xt><xt>та дыре</xt><xt>али</xt></xg>; <xg><x>sillä haavaa</x><xt xml:lang="udm">со вие</xt><xt xml:lang="udm">со дыре</xt><xt xml:lang="udm">соку</xt></xg> </mg> </e>
+<e> <lg> <l pos="N">haava</l> <sup>9</sup> </lg> <mg><b>II</b><xg><x>tällä haavaa</x><xt xml:lang="udm">та вие</xt><xt xml:lang="udm">та дыре</xt><xt xml:lang="udm">али</xt></xg>; <xg><x>sillä haavaa</x><xt xml:lang="udm">со вие</xt><xt xml:lang="udm">со дыре</xt><xt xml:lang="udm">соку</xt></xg> </mg> </e>
 <e> <lg> <l pos="N">haavauma</l> <sup>10</sup> </lg> <mg> <field>мед.</field> <tg xml:lang="udm"> <t>яра</t><t>яʼзва</t><t>яраӟектэм инты</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">haave</l> <sup>48</sup> </lg> <mg><tg xml:lang="udm"><t>малпа(сько)н</t><t>визьпӧръет*</t><t>фантаʼзи(я)</t></tg>; <xg><x>vaipua omiin haaveisiinsa</x><xt xml:lang="udm">ас малпанъёсад выйыны</xt></xg>; <xg><x>unohtua haaveisiinsa</x><xt xml:lang="udm">ас вактад усьыны, ас малпанъёсад выйыны</xt></xg> </mg> </e>
 <e> <lg> <l pos="N">haaveilija</l> <sup>12</sup> </lg> <mg> <tg xml:lang="udm"> <t>малпаськись (мурт)</t><t>пӧръясь (мурт)</t><t>фантазиʼровать карись (мурт)</t> </tg> </mg> </e>
@@ -4930,7 +4930,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 <e><lg><l pos="N">talutushihna</l><sup>9</sup></lg><mg><tg xml:lang="udm"><t>нуллон е, думет</t><re>ксь пуныез нуллон понна</re></tg></mg></e>
 <e><lg><l hid="Hom1" pos="N">tammi</l><sup>7</sup></lg><mg><field>бот.</field><tg xml:lang="udm"><t>тыпы</t></tg></mg></e>
 <e><lg><l hid="Hom2" pos="N">tammi</l><sup>7</sup></lg><mg>> <b>tammipeli</b></mg></e>
-<e><lg><l pos="N">tammipeli</l><sup>5</sup></lg><mg><tg xml:lang="udm"><t>шашки</t><re>шудон</re></tg><xg><x>pelata tammea</x><xt>шашкиен шудыны</xt></xg></mg></e>
+<e><lg><l pos="N">tammipeli</l><sup>5</sup></lg><mg><tg xml:lang="udm"><t>шашки</t><re>шудон</re></tg><xg><x>pelata tammea</x><xt xml:lang="udm">шашкиен шудыны</xt></xg></mg></e>
 <e><lg><l pos="N">tanskalainen</l><sup>3</sup></lg><mg NoId="TWO"><tg xml:lang="udm"><t>датчан</t><tCtn><defNative>naishenkilö myös</defNative><t>датчаʼнка</t></tCtn></tg></mg></e>
 <e><lg><l pos="N">tanssi</l><sup>5</sup></lg><mg><tg xml:lang="udm"><t>эктон</t></tg>; <xg><x>kansant.</x><xt xml:lang="udm">калык эктон</xt></xg>; <xg><x>pyytää tanssiin</x><xt xml:lang="udm">эктыны ӧтьыны</xt></xg>; <xg><x>panna tanssiksi</x><x>pistää tanssiksi</x><xt xml:lang="udm">эктыны кутскыны</xt><xt xml:lang="udm">шулдыртыса лэзьыны</xt></xg> </mg><mg NoId="TWO"><i>тр. л.</i> <tg xml:lang="udm"><tCtn><defNative>tanssitilaisuus</defNative><t>эктон(ъёс)</t></tCtn></tg>; <xg><x>käydä tansseissa</x><xt xml:lang="udm">эктыны ветлыны</xt><xt xml:lang="udm">эктонние ветлыны</xt></xg></mg></e>
 <e><lg><l pos="N">tapaturma</l><sup>10</sup></lg><mg><tg xml:lang="udm"><t>шудтэм учыр</t></tg>; <xg><x>joutua tapaturmaan</x><xt xml:lang="udm">шудтэм учыре сюрыны</xt><xt xml:lang="udm">шудтэм учыре шедьыны</xt></xg></mg></e>
